@@ -2,9 +2,17 @@
 
 
 /* Give the header element a background color */
-
+header {
+   background-color: blue;
+}
 
 /* Center everything in the header and footer */
+header {
+   text-align: center;
+}
+footer {
+   text-align: center;
+}
 
 
 /* All text to Helvetica */
